@@ -44,12 +44,12 @@ const About = () => {
           <div ref={sectionRef} className="md:w-1/2 reveal">
             <h2 className="text-3xl md:text-4xl font-bold mb-6 dark:text-white">About Me</h2>
             <p className="text-muted-foreground dark:text-gray-300 mb-6">
-              Hello!  Myy name is  Philip Gachie I'm a passionate developer with expertise in building modern web applications.
+              Hello!  My name is  Philip Gachie I'm a passionate developer with expertise in building modern web applications.
               With over 5 years of experience, I specialize in creating responsive, accessible, 
               and performant websites that deliver exceptional user experiences.
             </p>
             <p className="text-muted-foreground dark:text-gray-300 mb-8">
-              My journey in tech started when I built my first website at 15. Since then, 
+              My journey in tech started when I built my first website at 17.  Since then, 
               I've worked with various technologies and frameworks, constantly expanding my 
               skills to stay at the forefront of web development trends.
             </p>

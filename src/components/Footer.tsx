@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <h3 className="text-2xl font-bold">Portfolio</h3>
+            <h3 className="text-2xl font-bold">VICE</h3>
             <p className="text-gray-400 mt-2 max-w-md">
               Thank you for visiting my portfolio. If you'd like to work together,
               feel free to reach out.
@@ -33,7 +33,7 @@ const Footer = () => {
             </div>
             
             <div className="text-sm text-gray-400">
-              © {year} Portfolio. All rights reserved.
+              © {year} philip @ All rights reserved.
             </div>
           </div>
         </div>

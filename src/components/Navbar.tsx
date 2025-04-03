@@ -36,7 +36,7 @@ const Navbar = () => {
       isScrolled ? 'bg-white/90 dark:bg-gray-900/90 shadow-md backdrop-blur-sm py-3' : 'bg-transparent py-5'
     }`}>
       <div className="container mx-auto px-4 flex justify-between items-center">
-        <a href="#" className="text-2xl font-bold text-primary">Portfolio</a>
+        <a href="#" className="text-2xl font-bold text-primary">VICEWRLD</a>
         
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-8">

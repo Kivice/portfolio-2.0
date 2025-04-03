@@ -29,7 +29,7 @@ const projects: Project[] = [
     id: 2,
     title: "Task Management App",
     description: "A collaborative task management application with real-time updates and team features.",
-    image: "/spalsh2.jpg",
+    image: "/splash2.jpg",
     tags: ["Vue.js", "Firebase", "Tailwind CSS"],
     demoUrl: "#",
     githubUrl: "#",
